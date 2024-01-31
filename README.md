@@ -1,2 +1,5 @@
-<img style="border-radius: 20px;" src="Linkedin3.jpg" alt="Profile">
+<a href="https://mdiasgomes.com">
+  <img src="Linkedin3.jpg" alt="Profile">
+</a>
+
 
