@@ -1,6 +1,6 @@
 # Hello, I'm Mehdi 👋
 
-[![Profile](Github-cover.png)](https://mdiasgomes.com)
+[![Profile](Github-cover.png)](https://mdiasgomes.dev)
 
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B086FF&width=600&lines=Mehdi+DIAS+GOMES+%7C+Fullstack+Developer.)
 
