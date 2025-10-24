@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="start">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehdiDiasGomes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
