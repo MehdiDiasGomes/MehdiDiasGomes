@@ -34,18 +34,6 @@
 - **DevOps:** Docker, Git
 - **Databases:** MySQL, MongoDB
 
-## 📊 GitHub Stats
-
-<div align="start">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehdiDiasGomes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiDiasGomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MehdiDiasGomes&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
 ---
 
 <div align="center">
