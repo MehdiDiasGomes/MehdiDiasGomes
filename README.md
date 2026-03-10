@@ -1,5 +1,5 @@
 # Hello ! 👋
-[![Profile](cover.png)](https://mdiasgomes.dev)
+[![Profile](cover.png)](https://dg-zenith.com)
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e7c674&width=600&lines=Mehdi+DIAS+GOMES+%7C+Fullstack+Developer.)
 
 ## 🚀 About Me
