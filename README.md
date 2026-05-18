@@ -9,11 +9,10 @@
 I'm a **Fullstack Developer** passionate about crafting scalable, maintainable applications that bridge the gap between elegant backend architectures and intuitive user interfaces. Based in **Thionville, France 🇫🇷**, I work across multiple tech stacks to deliver robust solutions.
 
 - **Current Role:** Fullstack Developer at [**Maanos**](https://maanos.com) in Luxembourg 🇱🇺
-- **Freelance:** Building innovative projects through [**Zenith**](https://dg-zenith.com), my independent development company
 - **Philosophy:** Obsessed with clean code, performant systems, and creating seamless user experiences
 - **Approach:** Growth-oriented mindset with continuous learning at the core
 
-📬 **Let's connect:** [contact@dg-zenith.com](mailto:contact@dg-zenith.com)
+📬 **Let's connect:** [diasgomes.mehdicours@gmail.com](mailto:diasgomes.mehdicours@gmail.com)
 
 ---
 
@@ -85,7 +84,7 @@ I'm a **Fullstack Developer** passionate about crafting scalable, maintainable a
 
 ### 🌟 Let's build something remarkable together
 
-**[Visit Zenith](https://dg-zenith.com)** | **[Send me a message](mailto:contact@dg-zenith.com)**
+**[Visit Zenith](https://dg-zenith.com)** | **[Send me a message](mailto:diasgomes.mehdicours@gmail.com)**
 
 💛 Thanks for visiting!
 
